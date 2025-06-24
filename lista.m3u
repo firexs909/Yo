@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/firexs909/Yo/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
 #EXTVLCOPT:http-user-agent="VAVOO/2.6"
